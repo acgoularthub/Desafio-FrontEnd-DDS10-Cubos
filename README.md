@@ -1,6 +1,9 @@
 
 
-# Desafio | Front-end - Módulo 3
+# Cubos Flix
+
+## Desafio | Front-end - Módulo 3 
+
 
 ![](https://i.imgur.com/xG74tOh.png)
 
